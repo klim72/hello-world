@@ -1,0 +1,13 @@
+{
+  "name": "hello-world-mvc",
+  "version": "1.0.0",
+  "description": "Simple MVC project without external dependencies",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node src/app.js"
+  },
+  "keywords": ["mvc", "node"],
+  "author": "",
+  "license": "MIT"
+}
